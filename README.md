@@ -3,7 +3,6 @@
 A Computer Science/Informatics Student who is very interested in programming and web development.
 
 - 🌱 I'm currently learning about react.js and machine learning.
-- 💬 Feel free to ask me about web development.
 - 📫 How to reach me: ekorahy@gmail.com
 - ⚡ Fun fact: Cat and Anime Lover :)
 
