@@ -4,7 +4,7 @@ A Computer Science/Informatics Student who is very interested in programming, es
 
 - 🌱 I'm currently learning about react.js, next.js for web development and flutter for mobile development.
 - 📫 How to reach me: ekorahy@gmail.com
-- ⚡ Fun fact: Cat and Naruto Fans :)
+- ⚡ Fun fact: Love You if you are a Cat :)
 
 ### Github Statistic
 <p align="left">
