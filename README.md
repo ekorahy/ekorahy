@@ -1,10 +1,10 @@
 ### Hi! 👋 I'm Eko.
 
-A Computer Science/Informatics Student who is very interested in programming, especially in mobile and web development.
+A Informatics Student who is very interested in programming, especially in mobile and web development.
 
-- 🌱 I'm currently learning about react.js, next.js for web development and flutter for mobile development.
+- 🌱 I'm currently learning about react.js, next.js for front-end web development and flutter for mobile development.
 - 📫 How to reach me: ekorahy@gmail.com
-- ⚡ Fun fact: Love You if you are a Cat :)
+- ⚡ freedom, enlightenment, rahayu
 
 ### Github Statistic
 <p align="left">
