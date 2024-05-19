@@ -1,10 +1,11 @@
 ### Hi! 👋 I'm Eko.
 
-A Informatics Student who is very interested in programming, especially in mobile and web development.
-
-- 🌱 I'm currently learning about react.js, next.js for front-end web development and flutter for mobile development.
-- 📫 How to reach me: ekorahy@gmail.com
-- ⚡ freedom, enlightenment, rahayu
+<ul>
+  <li>Front-end engineer (web and mobile platform).</li>
+  <li>Tech enthusiast.</li>
+  <li>Lifelong learner.</li>
+</ul>
+<p>Work in react ecosystem for front-end web development and kotlin for mobile development (android). Manifesting ideas into digital realities that are accessible and inclusive to users.</p>
 
 ### Github Statistic
 <p align="left">
