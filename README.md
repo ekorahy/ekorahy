@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Eko.
 
 <ul>
-  <li>Front-end engineer (web and mobile platform).</li>
+  <li>Front-end Developer.</li>
   <li>Tech enthusiast.</li>
   <li>Lifelong learner.</li>
 </ul>
-<p>Work in react ecosystem for front-end web development and kotlin for mobile development (android). Manifesting ideas into digital realities that are accessible and inclusive to users.</p>
+<p>Working within the React ecosystem for front-end web development and using Kotlin for mobile app development (Android).</p>
 
 ### Github Statistic
 <p align="left">
