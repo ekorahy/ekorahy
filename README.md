@@ -1,7 +1,7 @@
-### Hi! 👋 I'm Eko.
+### Hi! 👋 I'm Eksa.
 
 <ul>
-  <li>Front-end Developer.</li>
+  <li>Front-end engineer.</li>
   <li>Tech enthusiast.</li>
   <li>Lifelong learner.</li>
 </ul>
