@@ -31,13 +31,15 @@
 - 🌱 I’m learning **GraphQL and improving my Next.js skills**.
 - 💬 Ask me about **Front-end Development**.
 - 🎯 I'm on a mission to **create engaging and dynamic web applications**.
-- 📫 How to reach me : **ekorahy@example.com**
+- 📫 How to reach me : **ekorahy@gmail.com**
 - ⚡ Fun fact : did you know? 🌍 I am one of about 7.9 billion people living on this Earth. Every person has a unique story and different contributions that shape our world. In this diversity, we are connected through experiences and dreams, creating a vibrant global network!
 - 📌 Self reminder :
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Ngelmu%20iku%20kalakone%20kanthi%20laku.&author=Pakubuwono%20IV%20in%20Serat%20Wulangreh&color=ff69b4" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Ngelmu%20iku%20kalakone%20kanthi%20laku%20(skills%20are%20gained%20through%20continuous%20practice).&author=Pakubuwono%20IV%20in%20Serat%20Wulangreh&color=ff69b4" alt="Quote" />
 </div>
+
+
 
 ---
 
