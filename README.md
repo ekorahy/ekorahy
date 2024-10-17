@@ -25,7 +25,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **[Personal Website](https://github.com/ekorahy/personal-website-2)**.
-- 🌱 I’m learning Front-end Development and continuously improving myself in all aspects of life.
+- 🌱 I’m learning Front-end Development and continuously improving myself in all aspects of my life.
 - 💬 Ask me about Front-end Development, anything else, or just to say hi, it's okay! :)
 - 🎯 I'm on a mission to **build a better life through digital reality**.
 - 📫 How to reach me : **ekorahy@gmail.com**
