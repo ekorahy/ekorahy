@@ -24,9 +24,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Eateries](https://github.com/ekorahy/eateries)**.
+- 🔭 I’m currently working on the **[Eateries](https://github.com/ekorahy/eateries)** project.
 - 🌱 I’m learning Front-end Development and continuously improving myself in all aspects of my life.
-- 💬 Ask me about Front-end Development, anything else, or just to say hello, it's okay! :)
+- 💬 Feel free to ask me about Front-end Development, anything else, or just say hello—it's all okay! :)
 - 🎯 I'm on a mission to **build a better life through digital reality**.
 - 📫 How to reach me : **ekorahy@gmail.com**
 - ⚡ Fun fact : did you know? 🌍 I am one of about 7.9 billion people living on this Earth. Every person has a unique story and different contributions that shape our world. In this diversity, we are connected through experiences and dreams, creating a vibrant global network.
