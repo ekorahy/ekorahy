@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on the **[Eateries](https://github.com/ekorahy/eateries)** project.
+- 🔭 I’m Front-end Developer.
 - 🌱 I’m learning Front-end Development and continuously improving myself in all aspects of my life.
 - 💬 Feel free to ask me about Front-end Development, anything else, or just say hello—it's all okay! :)
 - 🎯 I'm on a mission to **build a better life through digital reality**.
