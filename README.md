@@ -1,4 +1,5 @@
 <img src="https://github.com/user-attachments/assets/8d02dc22-b441-4ab2-8c7e-023633e91792" alt="cover image" />
+<br><br/>
 <div align="center">
   <img src="https://img.shields.io/github/followers/ekorahy?color=fbbf24&style=for-the-badge" alt="GitHub followers"> 
   <img src="https://img.shields.io/github/stars/ekorahy?color=fbbf24&style=for-the-badge" alt="GitHub stars">
