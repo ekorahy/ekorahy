@@ -1,12 +1,8 @@
-<h1 align="center">
-  Hi there, I'm Ekorahy!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-</h1>
-
+<img src="https://github.com/user-attachments/assets/8d02dc22-b441-4ab2-8c7e-023633e91792" alt="cover image" />
 <div align="center">
-  <img src="https://img.shields.io/github/followers/ekorahy?color=ff69b4&style=for-the-badge" alt="GitHub followers"> 
-  <img src="https://img.shields.io/github/stars/ekorahy?color=ff69b4&style=for-the-badge" alt="GitHub stars">
-  <img src="https://komarev.com/ghpvc/?username=ekorahy&color=ff69b4&style=for-the-badge" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/ekorahy?color=fbbf24&style=for-the-badge" alt="GitHub followers"> 
+  <img src="https://img.shields.io/github/stars/ekorahy?color=fbbf24&style=for-the-badge" alt="GitHub stars">
+  <img src="https://komarev.com/ghpvc/?username=ekorahy&color=fbbf24&style=for-the-badge" alt="Profile views">
 </div>
 
 <div align="center">
@@ -21,12 +17,11 @@
   </a>
 </div>
 
-
 ### 👨‍💻 About Me
 
-- 🔭 I’m Front-end Developer.
-- 🌱 I’m learning Front-end Development and continuously improving myself in all aspects of my life.
-- 💬 Feel free to ask me about Front-end Development, anything else, or just say hello—it's all okay! :)
+- 👨‍💻 I am a Software Engineer with expertise in the front-end side.
+- 🌱 I am learning Front-end Development and continuously improving myself in all aspects of my life.
+- 💬 Feel free to ask me about Front-end Development, anything else, or just say hello, it's all okay! :)
 - 🎯 I'm on a mission to **build a better life through digital reality**.
 - 📫 How to reach me : **ekorahy@gmail.com**
 - ⚡ Fun fact : did you know? 🌍 I am one of about 7.9 billion people living on this Earth. Every person has a unique story and different contributions that shape our world. In this diversity, we are connected through experiences and dreams, creating a vibrant global network.
@@ -83,21 +78,22 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/ekorahy">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ekorahy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000"/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ekorahy&layout=compact&langs_count=8&theme=algolia&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ekorahy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=000000"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ekorahy&layout=compact&langs_count=8&theme=algolia&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=000000"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekorahy&theme=radical&title_color=ff69b4&background=000000&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekorahy&theme=algolia&title_color=fbbf24&background=000000&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24&sideNums=fbbf24&sideLabels=fbbf24&dates=fbbf24&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </div>
+
 
 ---
 
 ### 🔥 My Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekorahy&theme=dracula&bg_color=000000&color=ff69b4&line=ff69b4&point=ff69b4&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ekorahy&theme=dracula&bg_color=000000&color=fbbf24&line=fbbf24&point=fbbf24&area=true" alt="Contribution Graph">
 </div>
 
 ---
